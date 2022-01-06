@@ -68,3 +68,31 @@ section{
 .section-2 img{
     width: 50%;
 }
+.section-3 img{
+   margin-top: 4%;
+   width: 70%;
+   padding-left: 95px;
+}
+.section-4 img{
+    width: 80%;
+    margin: 20%;
+    padding-left: px;
+}
+.develope{
+  width: 50%;
+  padding-right: 350px;
+}
+.community{
+   padding-left: 10%;
+   margin-top: 10%;
+}
+.footer{
+
+   left: 0;
+   bottom: 0;
+   width: 102%;
+   background-color: black;
+   color: white;
+   text-align: center;
+   font-size: 30px;
+}
